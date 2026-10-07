@@ -3,8 +3,8 @@
 import random
 from collections import Counter
 
-someWords = '''apple banana mango strawberry 
-orange grape pineapple apricot lemon coconut watermelon 
+someWords = '''apple cherry banana mango strawberry 
+orange grape guava pineapple apricot lemon coconut watermelon 
 cherry papaya berry peach lychee muskmelon'''
 
 someWords = someWords.split(' ')
