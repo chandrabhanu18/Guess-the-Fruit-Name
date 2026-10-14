@@ -3,7 +3,7 @@
 import random
 from collections import Counter
 
-someWords = '''apple cherry banana mango strawberry 
+someWords = '''apple tamarind cherry banana mango strawberry 
 orange grape guava pineapple apricot lemon Kiwi Avocado coconut watermelon 
 cherry papaya berry peach lychee muskmelon'''
 
